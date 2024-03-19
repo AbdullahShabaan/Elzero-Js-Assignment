@@ -1,0 +1,5 @@
+// Do Not Edit Names
+let a = 10;
+let b = 20;
+let c = 30;
+export { a, b, c };
